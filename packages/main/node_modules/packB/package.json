@@ -1,6 +1,6 @@
 {
   "name": "packB",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "obj-traverse": "^1.0.0",
-    "packA": "^0.0.1"
+    "packA": "^0.1.0"
   }
 }
