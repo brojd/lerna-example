@@ -1,14 +1,14 @@
 {
   "name": "main",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "packA": "^0.0.1",
-    "packB": "^0.0.1"
+    "packA": "^0.1.0",
+    "packB": "^0.1.0"
   },
   "author": "",
   "license": "ISC"
