@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "packA": "1.0.0",
+    "packB": "1.0.0"
+  },
   "author": "",
   "license": "ISC"
 }
